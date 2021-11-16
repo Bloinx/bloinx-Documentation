@@ -4,7 +4,10 @@
 
 ## Sobre Bloinx
 
-* [Que es Bloinx?](sobre-bloinx/que-es-bloinx.md)
+* [Whitepaper](sobre-bloinx/whitepaper/README.md)
+  * [Antecedentes](sobre-bloinx/whitepaper/antecedentes.md)
+  * [Nuestra propuesta](sobre-bloinx/whitepaper/nuestra-propuesta.md)
+  * [Tokenomics](sobre-bloinx/whitepaper/tokenomics.md)
 * [Reglas](sobre-bloinx/reglas.md)
 
 ## Para usuarios
