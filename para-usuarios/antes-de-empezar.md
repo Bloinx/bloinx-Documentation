@@ -1,2 +1,0 @@
-# Antes de empezar
-

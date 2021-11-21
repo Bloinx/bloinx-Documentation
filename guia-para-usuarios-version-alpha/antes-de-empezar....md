@@ -1,0 +1,3 @@
+# Antes de empezar...
+
+La versión de Bloinx a la que accederás es una versión de prueba en la que se intercambiaran criptomonedas que no tienen valor real. Con esta versión estaremos corriendo diferentes escenarios para asegurar el funcionamiento y seguridad de la dapp para dejarla lista para su lanzamiento.
