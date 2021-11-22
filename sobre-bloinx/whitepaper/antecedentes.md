@@ -1,3 +1,7 @@
+---
+description: (en desarrollo)
+---
+
 # Antecedentes
 
 Según la Organización Internacional del Trabajo, 2 mil millones de personas trabajan de manera informal lo que representa el 61% de la población mundial total, el porcentaje aumenta en los países emergentes y en desarrollo con un 67% y 90% respectivamente [(1)](https://www.ilo.org/wcmsp5/groups/public/---dgreports/---dcomm/documents/publication/wcms\_626831.pdf). Como resultado de sus ingresos fluctuantes, es difícil para las familias estructurar sus finanzas y tener un fondo de emergencia o adquirir electrodomésticos. En caso de emergencia, se les excluye del sistema financiero formal porque la mayoría de las instituciones requieren prueba de empleo para otorgar préstamos o se les imponen tasas de interés impagables.&#x20;

@@ -2,5 +2,5 @@
 description: (en desarrollo)
 ---
 
-# Ambiente de programación
+# Contrato de la ronda
 

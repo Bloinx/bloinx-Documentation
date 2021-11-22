@@ -1,3 +1,7 @@
+---
+description: (en desarrollo)
+---
+
 # Whitepaper
 
 [Antecedentes](antecedentes.md)

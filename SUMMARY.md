@@ -14,8 +14,7 @@
 
 ## Para desarrolladores
 
-* [Contrato de la ronda](para-desarrolladores/contrato-de-la-ronda/README.md)
-  * [Etapas](para-desarrolladores/contrato-de-la-ronda/etapas.md)
+* [Contrato de la ronda](para-desarrolladores/contrato-de-la-ronda.md)
 * [Ambiente de programación](para-desarrolladores/ambiente-de-programacion.md)
 
 ## Sobre Bloinx
