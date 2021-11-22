@@ -4,7 +4,7 @@ Para poder acceder a la aplicación tendrás que usar el explorador de Metamask,
 
 ![](../.gitbook/assets/2-app\_1.jpg)
 
-Y coloca este url aqui
+Y coloca este url [https://test-bloinx.web.app/](https://test-bloinx.web.app) aqui:
 
 ![](../.gitbook/assets/2-app-2.jpg)
 
