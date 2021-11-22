@@ -8,7 +8,10 @@
 * [Antes de empezar...](guia-para-usuarios-version-alpha/antes-de-empezar....md)
 * [Crea tu wallet](guia-para-usuarios-version-alpha/instala-tu-wallet.md)
 * [Accede a la aplicación](guia-para-usuarios-version-alpha/accede-a-la-aplicacion.md)
+* [Consigue criptomonedas](guia-para-usuarios-version-alpha/consigue-criptomonedas.md)
 * [Crea una ronda](guia-para-usuarios-version-alpha/crea-una-ronda.md)
+* [Registro de admin](guia-para-usuarios-version-alpha/registro-de-admin.md)
+* [Registro de invitad@s](guia-para-usuarios-version-alpha/registro-de-invitad-s.md)
 * [Pagos y cobros](guia-para-usuarios-version-alpha/pagos-y-cobros.md)
 * [FAQs](guia-para-usuarios-version-alpha/faqs.md)
 
