@@ -6,7 +6,7 @@ Ya que hayas recibido el correo donde te avisamos que tu amig@ te ha invitado a 
 
 Lo primero que se muestra es una explicación del primer pago que se hará a la ronda, lee con atención. Si estás de acuerdo acepta las condiciones y presiona aprobar.
 
-![](<../.gitbook/assets/image (14).png>)![](<../.gitbook/assets/image (2).png>)
+![](<../.gitbook/assets/image (14) (1).png>)![](<../.gitbook/assets/image (2).png>)
 
 A continuación podrás ponerle un nombre a la ronda, este nombre únicamente será para que tú te organices. También debes elegir tu motivación y tu lugar para poder registrarte.
 
