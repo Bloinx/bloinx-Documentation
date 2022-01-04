@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Bienvenidos](README.md)
-  * [Mas sobre blockchain](readme/mas-sobre-blockchain.md)
+* [Sobre nosotros](sobre-nosotros.md)
 
 ## Guia para usuarios (version alpha)
 
@@ -20,10 +20,11 @@
 * [Contrato de la ronda](para-desarrolladores/contrato-de-la-ronda.md)
 * [Ambiente de programación](para-desarrolladores/ambiente-de-programacion.md)
 
-## Sobre Bloinx
+## Mas información
 
-* [Whitepaper](sobre-bloinx/whitepaper/README.md)
-  * [Antecedentes](sobre-bloinx/whitepaper/antecedentes.md)
-  * [Nuestra propuesta](sobre-bloinx/whitepaper/nuestra-propuesta.md)
-  * [Tokenomics](sobre-bloinx/whitepaper/tokenomics.md)
-* [Reglas](sobre-bloinx/reglas.md)
+* [Whitepaper](mas-informacion/whitepaper/README.md)
+  * [Antecedentes](mas-informacion/whitepaper/antecedentes.md)
+  * [Nuestra propuesta](mas-informacion/whitepaper/nuestra-propuesta.md)
+  * [Tokenomics](mas-informacion/whitepaper/tokenomics.md)
+* [Reglas](mas-informacion/reglas.md)
+* [Mas sobre blockchain](mas-informacion/mas-sobre-blockchain.md)

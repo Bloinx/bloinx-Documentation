@@ -10,5 +10,5 @@ Bloinx es una dapp de ahorro solidario para facilitar la administración de las 
 
 ### ...una ¿dapp?
 
-Quizás notaste que en el párrafo anterior pusimos dapp y no app y no fue un error, es acrónimo de aplicación descentralizada. Mas sobre esto [aqui.](readme/mas-sobre-blockchain.md)
+Quizás notaste que en el párrafo anterior pusimos dapp y no app y no fue un error, es acrónimo de aplicación descentralizada. Mas sobre esto [aqui.](mas-informacion/mas-sobre-blockchain.md)
 
