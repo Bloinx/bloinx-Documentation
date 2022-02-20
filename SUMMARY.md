@@ -3,17 +3,19 @@
 * [Bienvenidos](README.md)
 * [Sobre nosotros](sobre-nosotros.md)
 
-## Guia para usuarios (version alpha)
+## Guía para usuarios (versión beta)
 
-* [Antes de empezar...](guia-para-usuarios-version-alpha/antes-de-empezar....md)
-* [Crea tu wallet](guia-para-usuarios-version-alpha/instala-tu-wallet.md)
-* [Accede a la aplicación](guia-para-usuarios-version-alpha/accede-a-la-aplicacion.md)
-* [Consigue criptomonedas](guia-para-usuarios-version-alpha/consigue-criptomonedas.md)
-* [Crea una ronda](guia-para-usuarios-version-alpha/crea-una-ronda.md)
-* [Registro de admin](guia-para-usuarios-version-alpha/registro-de-admin.md)
-* [Registro de invitad@s](guia-para-usuarios-version-alpha/registro-de-invitad-s.md)
-* [Pagos y cobros](guia-para-usuarios-version-alpha/pagos-y-cobros.md)
-* [FAQs](guia-para-usuarios-version-alpha/faqs.md)
+* [Antes de empezar...](guia-para-usuarios-version-beta/antes-de-empezar....md)
+* [Crea tu wallet](guia-para-usuarios-version-beta/instala-tu-wallet/README.md)
+  * [Metamask](guia-para-usuarios-version-beta/instala-tu-wallet/metamask.md)
+  * [Valora (próximamente)](guia-para-usuarios-version-beta/instala-tu-wallet/valora-proximamente.md)
+* [Accede a la aplicación](guia-para-usuarios-version-beta/accede-a-la-aplicacion.md)
+* [Agrega fondos a tu wallet](guia-para-usuarios-version-beta/agrega-fondos-a-tu-wallet.md)
+* [Crea una ronda](guia-para-usuarios-version-beta/crea-una-ronda.md)
+* [Registro de admin](guia-para-usuarios-version-beta/registro-de-admin.md)
+* [Registro de invitad@s](guia-para-usuarios-version-beta/registro-de-invitad-s.md)
+* [Pagos y cobros](guia-para-usuarios-version-beta/pagos-y-cobros.md)
+* [FAQs](guia-para-usuarios-version-beta/faqs.md)
 
 ## Para desarrolladores
 
