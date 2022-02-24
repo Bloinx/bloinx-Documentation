@@ -6,7 +6,7 @@ Ya que hayas iniciado sesión y conectado tu wallet crea una nueva ronda con est
 
 ![](<../.gitbook/assets/image (10).png>)
 
-Podrás elegir el número de participantes, el monto a pagar y la periodicidad. Para la prueba piloto todas las rondas serán 2 días por turno. Verifica los datos y crea la ronda.
+Podrás elegir el número de participantes, el monto a pagar y la periodicidad. Verifica los datos y crea la ronda.
 
 ![](<../.gitbook/assets/image (1) (1).png>)![](<../.gitbook/assets/image (9).png>)
 

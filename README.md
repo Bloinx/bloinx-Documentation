@@ -6,7 +6,7 @@ description: Plataforma descentralizada para circulos de ahorro.
 
 ## ¿Que es Bloinx?
 
-Bloinx es una dapp de ahorro solidario para facilitar la administración de las comúnmente conocidas como “Susu”, “Tandas”, “Polla”, “vaquitas”, “ahorro cooperativo” etc. dependiendo el país donde te encuentres.&#x20;
+Bloinx es una dapp de ahorro solidario para facilitar la administración de las comúnmente conocidas como “Susu”, “Tandas”, “vaquitas”, “ahorro cooperativo” etc. dependiendo el país donde te encuentres.&#x20;
 
 ### ...una ¿dapp?
 
