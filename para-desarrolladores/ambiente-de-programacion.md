@@ -1,6 +1,0 @@
----
-description: (en desarrollo)
----
-
-# Ambiente de programación
-

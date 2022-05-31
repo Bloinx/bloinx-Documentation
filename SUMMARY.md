@@ -19,8 +19,7 @@
 
 ## Para desarrolladores
 
-* [Contrato de la ronda](para-desarrolladores/contrato-de-la-ronda.md)
-* [Ambiente de programación](para-desarrolladores/ambiente-de-programacion.md)
+* [BloinxSmartContractsDoc\_eng](para-desarrolladores/bloinxsmartcontractsdoc\_eng.md)
 
 ## Mas información
 
