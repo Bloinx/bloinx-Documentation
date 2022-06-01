@@ -1,5 +1,7 @@
 # Crea una ronda
 
+{% embed url="https://youtu.be/6Tw1XbU2dZw" %}
+
 Si estás organizando la ronda serás el encargado de crearla en Bloinx y al momento de crearla, te llamaremos de cariño “admin”.
 
 Ya que hayas iniciado sesión y conectado tu wallet crea una nueva ronda con este botón.
