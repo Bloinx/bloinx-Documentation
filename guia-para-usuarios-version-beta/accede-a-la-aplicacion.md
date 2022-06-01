@@ -1,5 +1,7 @@
 # Accede a la aplicación
 
+{% embed url="https://youtu.be/cVuQoHN6yQI" %}
+
 Para poder acceder a la aplicación tendrás que usar el explorador de Metamask, así el sitio pueda conectarse con tu wallet.
 
 Y coloca este url [https://beta-bloinx.web.app](https://beta-bloinx.web.app) aqui:.

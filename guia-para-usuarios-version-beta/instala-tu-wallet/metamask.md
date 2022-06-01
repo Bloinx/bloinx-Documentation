@@ -1,5 +1,7 @@
 # Metamask
 
+{% embed url="https://youtu.be/tDDWOVQ4WEY" %}
+
 Metamask es una wallet usada por millones de personas en todo el mundo para hacer transacciones con criptomonedas. Para acceder a Bloinx debes instalar la aplicación que está disponible para iOS y Android.&#x20;
 
 * iOS: [https://metamask.app.link/skAH3BaF99](https://metamask.app.link/skAH3BaF99)

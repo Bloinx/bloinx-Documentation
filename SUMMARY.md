@@ -3,9 +3,9 @@
 * [Bienvenidos](README.md)
 * [Sobre nosotros](sobre-nosotros.md)
 
-## Guía para usuarios (versión beta)
+## Guia para usuarios (version beta)
 
-* [Antes de empezar...](guia-para-usuarios-version-beta/antes-de-empezar....md)
+* [Antes de empezar...](guia-para-usuarios-version-alpha/antes-de-empezar....md)
 * [Crea tu wallet](guia-para-usuarios-version-beta/instala-tu-wallet/README.md)
   * [Metamask](guia-para-usuarios-version-beta/instala-tu-wallet/metamask.md)
   * [Valora (próximamente)](guia-para-usuarios-version-beta/instala-tu-wallet/valora-proximamente.md)
@@ -19,7 +19,7 @@
 
 ## Para desarrolladores
 
-* [BloinxSmartContractsDoc\_eng](para-desarrolladores/bloinxsmartcontractsdoc\_eng.md)
+* [Smart contracts documentation](para-desarrolladores/smart-contracts-documentation.md)
 
 ## Mas información
 
