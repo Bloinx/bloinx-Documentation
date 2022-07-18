@@ -20,6 +20,7 @@
 ## Para desarrolladores
 
 * [Smart contracts documentation](para-desarrolladores/smart-contracts-documentation.md)
+* [Contribution guidelines](para-desarrolladores/contribution-guidelines.md)
 
 ## Mas información
 
