@@ -17,10 +17,10 @@
 * [Pagos y cobros](guia-para-usuarios-version-beta/pagos-y-cobros.md)
 * [FAQs](guia-para-usuarios-version-beta/faqs.md)
 
-## Para desarrolladores
+## For Developers
 
-* [Smart contracts documentation](para-desarrolladores/smart-contracts-documentation.md)
-* [Contribution guidelines](para-desarrolladores/contribution-guidelines.md)
+* [Contribution guidelines](for-developers/contribution-guidelines.md)
+* [Smart contracts documentation](for-developers/smart-contracts-documentation.md)
 
 ## Mas información
 
