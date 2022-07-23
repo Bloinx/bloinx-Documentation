@@ -6,7 +6,7 @@ description: Let's build together!
 
 There is still work to be done and we would like YOU to build with us.\
 \
-[Here](https://github.com/orgs/Bloinx/projects) you will find the projects we are working on. You can take any unassigned issue in the Todo column that are not marked as "TeamOnly". The issues with the "good first issue" label are a good place to start.
+[Here](https://github.com/orgs/Bloinx/projects) you will find the projects we are working on. You can take any unassigned issue in the Todo column that are not marked as "TeamOnly". The issues with the "good first issue" label are a good place to start. Go [here](https://github.com/Bloinx/bloinx-v1/issues) to view some of the issues waiting for you.
 
 1. Go into the issue and assign it to your self.
 2. Fork and clone the repository
