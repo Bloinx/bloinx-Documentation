@@ -6,11 +6,11 @@ Para poder acceder a la aplicación tendrás que usar el explorador de Metamask,
 
 Y coloca este url [https://beta-bloinx.web.app](https://beta-bloinx.web.app) aqui:.
 
-![](<../.gitbook/assets/image (6).png>)![](<../.gitbook/assets/image (15).png>)
+![](<../../.gitbook/assets/image (6).png>)![](<../../.gitbook/assets/image (15).png>)
 
 Regístrate e inicia sesión.
 
-![](../.gitbook/assets/2-app-3.jpg)
+![](../../.gitbook/assets/2-app-3.jpg)
 
 Da click en conecta tu wallet. Verás un mensaje para cambiar a la red de Celo, aprueba y cámbiate de red.
 
@@ -18,4 +18,4 @@ Da click en conecta tu wallet. Verás un mensaje para cambiar a la red de Celo, 
 
 Si el botón rosa sigue diciendo “Conecta tu wallet” da click de nuevo. Sabrás que tu wallet está conectada correctamente cuando el botón se vea asi.
 
-![](<../.gitbook/assets/image (14).png>)
+![](<../../.gitbook/assets/image (14).png>)
