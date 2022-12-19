@@ -4,7 +4,7 @@
 
 Para poder acceder a la aplicación tendrás que usar el explorador de Metamask, así el sitio pueda conectarse con tu wallet.
 
-Y coloca este url [https://beta-bloinx.web.app](https://beta-bloinx.web.app) aqui:.
+Y coloca este url [https://bloinx.app/](https://bloinx.app/) aqui:.
 
 ![](<../../.gitbook/assets/image (6).png>)![](<../../.gitbook/assets/image (15).png>)
 
