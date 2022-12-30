@@ -25,7 +25,9 @@
 
 ## English
 
-* [Page 2](english/page-2.md)
+* [Welcome](english/readme.md)
+* [Before we start...](english/before-we-start....md)
+* [About us](english/about-us.md)
 
 ## For Developers
 
