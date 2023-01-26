@@ -8,7 +8,7 @@ Lo primero que se muestra es una explicación del primer pago que se hará a la 
 
 ![](<../../.gitbook/assets/image (16) (1).png>)![](<../../.gitbook/assets/image (15) (1).png>)
 
-A continuación podrás ponerle un nombre a la ronda, este nombre únicamente será para que tú te organices. También debes elegir tu motivación y tu lugar para poder registrarte.
+A continuación podrás ponerle un nombre a la ronda, este nombre únicamente será para que tú te organices. También debes elegir tu motivación y tu lugar para poder registrarte. En la sección de detalles de pago podras ver el desglose del pago inicial que se compone de un pago por adelantado y 5% de tarifa de servicio.
 
 ![](<../../.gitbook/assets/image (3).png>)![](<../../.gitbook/assets/image (1) (2).png>)
 
