@@ -8,4 +8,4 @@ description: (en desarrollo)
 
 [Nuestra propuesta](nuestra-propuesta.md)
 
-[Tokenomics](tokenomics.md)
+[Tokenomics](tokenomics-v1.md)

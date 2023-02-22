@@ -2,7 +2,7 @@
 description: (en desarrollo)
 ---
 
-# Tokenomics
+# Tokenomics V1
 
 Al terminar las rondas de manera puntual, los usuarios recibirán BLX, el token nativo de Bloinx que representa el cumplimiento de los participantes en la ronda.
 
@@ -12,7 +12,7 @@ La cantidad de BLX se calcula con la siguiente formula:
 
 Entre mas esperes para poder retirar, mas tokens ganarás! Por ejemplo, en una ronda de pagos de 5 cUSD lxs usuarixs en turno 1 ganan 50 BLX, lxs de turno 5 ganan 1250 BLX y lxs de turno 10 5000 BLX.
 
-![](../../.gitbook/assets/image.png)
+![](<../../.gitbook/assets/image (20).png>)
 
 \
 Dirección: 0x37836007FC99C7cB3D4590cb466692ff7690074c\

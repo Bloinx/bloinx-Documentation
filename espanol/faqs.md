@@ -1,8 +1,8 @@
 # FAQs
 
-**Solo veo que tengo CELO y no cUSD, ¿Qué hago?**&#x20;
+**Solo veo que tengo CELO/ MATIC y no la "stable coin" con la que participare en la ronda, ¿Qué hago?**&#x20;
 
-Revisa esta [sección](guia-para-usuarios/agrega-fondos-a-tu-wallet.md).
+Revisa esta [sección](guia-para-usuarios/agrega-fondos-a-tu-wallet/).
 
 **En Metamask no me sale activo el botón de "Confirmar" ¿Qué hago?**&#x20;
 
