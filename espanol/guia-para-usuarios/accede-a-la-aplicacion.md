@@ -8,7 +8,11 @@ Y coloca este url [https://bloinx.app/](https://bloinx.app/) aqui:.
 
 Regístrate e inicia sesión.
 
-![](../../.gitbook/assets/2-app-3.jpg)
+<div align="left">
+
+<figure><img src="../../.gitbook/assets/registro.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
+</div>
 
 Para iniciar da click en conecta tu wallet, elige la red con la que quieres acceder a Bloinx.
 

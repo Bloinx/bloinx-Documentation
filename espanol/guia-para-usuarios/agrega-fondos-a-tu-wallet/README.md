@@ -10,7 +10,11 @@ Para poder participar en las rondas es necesario que cuentes con alguna de las s
 
 Si estas usando Metamask debes agregar la dirección del token que usarás para poder ver tu saldo, el siguiente video muestra como hacerlo.
 
-<img src="../../../.gitbook/assets/3-cripto-1.jpg" alt="" data-size="original">
+<div align="left">
+
+<figure><img src="../../../.gitbook/assets/agregar_token.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
+</div>
 
 {% embed url="https://youtu.be/YnegmiRvSDA" %}
 

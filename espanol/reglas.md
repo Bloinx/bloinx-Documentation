@@ -16,3 +16,4 @@
    4. Si tu o tus invitados tienen pagos pendientes, podrán ponerse al corriente mientras esté corriendo la ronda.
 4. **Fin de la ronda**
    1. Al finalizar la ronda lo que se encuentra en la bolsa de garantias se repartirá entre los usuarios con pagos a tiempo.
+   2. Los tokens BLX se distribuirán a los usuarios que hayan realizado sus pagos puntualmente.

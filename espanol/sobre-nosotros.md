@@ -21,3 +21,5 @@ Facebook [Bloinx](https://www.facebook.com/Bloinx)
 Telegram [https://t.me/bloinx](https://t.me/bloinx)
 
 Linkedin [BX Smart Labs](https://www.linkedin.com/company/bx-smart-labs/)
+
+Discord[ Bloinx](https://discord.gg/caCA3nDd)
